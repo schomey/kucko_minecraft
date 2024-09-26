@@ -1,0 +1,342 @@
+[09:00:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:00:22] [ServerMain/INFO]: Loaded 1290 recipes
+[09:00:23] [ServerMain/INFO]: Loaded 1399 advancements
+[09:00:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[09:00:23] [Server thread/INFO]: Loading properties
+[09:00:23] [Server thread/INFO]: Default game type: SURVIVAL
+[09:00:23] [Server thread/INFO]: Generating keypair
+[09:00:23] [Server thread/INFO]: Starting Minecraft server on :::25565
+[09:00:23] [Server thread/INFO]: Using default channel type
+[09:00:23] [Server thread/INFO]: Preparing level "world"
+[09:00:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:00:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:00:24] [Server thread/INFO]: Time elapsed: 241 ms
+[09:00:24] [Server thread/INFO]: Done (0.940s)! For help, type "help"
+[09:00:31] [User Authenticator #1/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[09:00:32] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:55007] logged in with entity id 16 at (-267.4651960219165, -29.0, 134.63232524388818)
+[09:00:32] [Server thread/INFO]: NoService21 joined the game
+[09:00:46] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[09:00:46] [Server thread/INFO]: NoService21 left the game
+[09:00:53] [User Authenticator #2/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[09:00:53] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:55024] logged in with entity id 214 at (-267.4362305231218, -31.0, 135.30445726813164)
+[09:00:53] [Server thread/INFO]: NoService21 joined the game
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:07:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-204, y=60, z=196} jd{x=-203, y=60, z=197}
+[09:16:54] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[09:16:54] [Server thread/INFO]: NoService21 left the game
+[09:19:19] [User Authenticator #3/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[09:19:19] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:55636] logged in with entity id 4670 at (337.7978896628675, 75.0, 197.9606338109375)
+[09:19:19] [Server thread/INFO]: NoService21 joined the game
+[09:54:51] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[09:54:51] [Server thread/INFO]: NoService21 left the game
+[10:05:07] [User Authenticator #4/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[10:05:08] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:52916] logged in with entity id 12441 at (312.01659861368995, 80.0, 219.713726928689)
+[10:05:08] [Server thread/INFO]: schomey joined the game
+[10:33:57] [User Authenticator #5/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:33:58] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:61687] logged in with entity id 19982 at (336.9643123318471, 75.875, 200.57870803952997)
+[10:33:58] [Server thread/INFO]: NoService21 joined the game
+[10:34:38] [Server thread/INFO]: <NoService21> adja a melo? :)
+[10:34:48] [Server thread/INFO]: <schomey> persze
+[10:34:54] [Server thread/INFO]: <NoService21> kerlek mondd, hogy nem is dolgozol es jatszhatunk egesz nap
+[10:35:05] [Server thread/INFO]: <schomey> sajnos de kene dolgozni
+[10:35:09] [Server thread/INFO]: <schomey> de nagyon fuggo vagyok
+[10:36:45] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:36:45] [Server thread/INFO]: NoService21 left the game
+[10:39:31] [User Authenticator #6/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:39:31] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:61853] logged in with entity id 21571 at (341.50240938964646, 75.0, 204.2633120926915)
+[10:39:31] [Server thread/INFO]: NoService21 joined the game
+[10:42:04] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:42:04] [Server thread/INFO]: NoService21 left the game
+[10:42:35] [User Authenticator #7/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:42:35] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:61962] logged in with entity id 22663 at (344.9968200240648, 75.0, 204.95511725758632)
+[10:42:35] [Server thread/INFO]: NoService21 joined the game
+[10:45:08] [Server thread/INFO]: <NoService21> te nether?
+[10:45:16] [Server thread/INFO]: <NoService21> ki tudsz lepni egy pillanatra?
+[10:45:21] [Server thread/INFO]: schomey lost connection: Disconnected
+[10:45:21] [Server thread/INFO]: schomey left the game
+[10:48:40] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:48:40] [Server thread/INFO]: NoService21 left the game
+[10:48:42] [User Authenticator #8/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:48:43] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62145] logged in with entity id 24079 at (335.43439997983154, 75.0, 203.10891653397277)
+[10:48:43] [Server thread/INFO]: NoService21 joined the game
+[10:48:44] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:48:44] [Server thread/INFO]: NoService21 left the game
+[10:49:19] [User Authenticator #9/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:49:19] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62175] logged in with entity id 24372 at (335.43439997983154, 75.0, 203.10891653397277)
+[10:49:19] [Server thread/INFO]: NoService21 joined the game
+[10:49:40] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:49:40] [Server thread/INFO]: NoService21 left the game
+[10:49:59] [User Authenticator #10/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:49:59] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62208] logged in with entity id 24725 at (344.55669454391574, 75.0, 205.1994870516689)
+[10:49:59] [Server thread/INFO]: NoService21 joined the game
+[10:50:13] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:50:13] [Server thread/INFO]: NoService21 left the game
+[10:50:31] [User Authenticator #11/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:50:31] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62235] logged in with entity id 25035 at (345.6935457322054, 75.0, 205.62208156772144)
+[10:50:31] [Server thread/INFO]: NoService21 joined the game
+[10:52:20] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:52:20] [Server thread/INFO]: NoService21 left the game
+[10:52:50] [User Authenticator #12/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[10:52:50] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:53122] logged in with entity id 25585 at (291.17982997545204, 75.0, 218.64792128282423)
+[10:52:50] [Server thread/INFO]: schomey joined the game
+[10:52:54] [User Authenticator #13/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:52:55] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62318] logged in with entity id 25889 at (344.8756796232453, 76.0, 197.90479462447868)
+[10:52:55] [Server thread/INFO]: NoService21 joined the game
+[10:53:22] [Server thread/INFO]: <schomey> mi keszul?
+[10:54:48] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:54:48] [Server thread/INFO]: NoService21 left the game
+[10:55:11] [User Authenticator #14/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[10:55:11] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62433] logged in with entity id 26321 at (343.63993833053456, 76.0, 192.9767571322739)
+[10:55:11] [Server thread/INFO]: NoService21 joined the game
+[10:57:45] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[10:57:45] [Server thread/INFO]: NoService21 left the game
+[10:57:47] [Server thread/INFO]: NoService21 (/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:62526) lost connection: Disconnected
+[11:17:31] [Server thread/INFO]: schomey has made the advancement [A Seedy Place]
+[11:18:07] [Server thread/INFO]: schomey has made the advancement [The Parrots and the Bats]
+[11:21:54] [User Authenticator #15/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:21:54] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63454] logged in with entity id 31723 at (346.26528305136685, 75.0, 198.72436059201254)
+[11:21:54] [Server thread/INFO]: NoService21 joined the game
+[11:23:19] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:23:19] [Server thread/INFO]: NoService21 left the game
+[11:23:37] [User Authenticator #16/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:23:37] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63527] logged in with entity id 32185 at (343.0876115492261, 75.0, 203.13455152049053)
+[11:23:37] [Server thread/INFO]: NoService21 joined the game
+[11:27:50] [Server thread/INFO]: <NoService21> i sleep
+[11:28:10] [Server thread/INFO]: <NoService21> nvm
+[11:28:21] [Server thread/INFO]: <schomey> i sleep
+[11:28:29] [Server thread/INFO]: <NoService21> i sleep
+[11:28:35] [Server thread/INFO]: <schomey> gm
+[11:28:40] [Server thread/INFO]: <NoService21> gm king
+[11:29:11] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:29:11] [Server thread/INFO]: NoService21 left the game
+[11:29:32] [User Authenticator #17/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:29:33] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63748] logged in with entity id 33694 at (343.5523780276185, 80.0, 195.2248788041488)
+[11:29:33] [Server thread/INFO]: NoService21 joined the game
+[11:29:46] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:29:46] [Server thread/INFO]: NoService21 left the game
+[11:29:59] [User Authenticator #18/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:30:00] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63781] logged in with entity id 33803 at (342.25599590349526, 81.0, 198.26446005204969)
+[11:30:00] [Server thread/INFO]: NoService21 joined the game
+[11:32:41] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:32:41] [Server thread/INFO]: NoService21 left the game
+[11:33:05] [User Authenticator #19/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:33:05] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63900] logged in with entity id 34654 at (343.6109744143049, 81.0, 196.69475031997277)
+[11:33:05] [Server thread/INFO]: NoService21 joined the game
+[11:34:10] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:34:10] [Server thread/INFO]: NoService21 left the game
+[11:34:46] [User Authenticator #20/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:34:47] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63962] logged in with entity id 35133 at (345.5431107872893, 75.0, 203.98348262766615)
+[11:34:47] [Server thread/INFO]: NoService21 joined the game
+[11:34:56] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:34:56] [Server thread/INFO]: NoService21 left the game
+[11:35:11] [User Authenticator #21/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:35:11] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:63993] logged in with entity id 35274 at (336.225803135828, 75.0, 202.9056336161857)
+[11:35:11] [Server thread/INFO]: NoService21 joined the game
+[11:36:06] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:36:06] [Server thread/INFO]: NoService21 left the game
+[11:36:58] [User Authenticator #22/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:36:59] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64070] logged in with entity id 35710 at (337.3820603778541, 75.0, 205.08892289165448)
+[11:36:59] [Server thread/INFO]: NoService21 joined the game
+[11:37:48] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:37:48] [Server thread/INFO]: NoService21 left the game
+[11:37:59] [User Authenticator #23/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:37:59] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64117] logged in with entity id 36082 at (345.5795313051636, 75.0, 203.51249909613892)
+[11:37:59] [Server thread/INFO]: NoService21 joined the game
+[11:38:13] [Server thread/INFO]: <schomey> felvigyem a farmhoz a portalt?
+[11:38:26] [Server thread/INFO]: <NoService21> tudod hogy kell?
+[11:38:31] [Server thread/INFO]: <schomey> nem
+[11:38:41] [Server thread/INFO]: <NoService21> Az a baj hogy kurva sok szarakodás
+[11:38:53] [Server thread/INFO]: <NoService21> de meg lehet próbálni igazábóé
+[11:38:54] [Server thread/INFO]: <schomey> de miert baj ha 18 blokkal odebb van
+[11:39:06] [Server thread/INFO]: <NoService21> mert akkor már a másik port
+[11:39:14] [Server thread/INFO]: <NoService21> álba fogsz jönni-menni
+[11:39:19] [Server thread/INFO]: <schomey> es?
+[11:39:28] [Server thread/INFO]: <schomey> ja hogy az nem ide hoz vissza
+[11:39:31] [Server thread/INFO]: <NoService21> nem leszel a nether tetején(?)
+[11:39:36] [Server thread/INFO]: <NoService21> yes
+[11:39:49] [Server thread/INFO]: <NoService21> de ha van kedved megprobalhatod
+[11:39:56] [Server thread/INFO]: <NoService21> de idegtepo munka
+[11:40:08] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:40:08] [Server thread/INFO]: NoService21 left the game
+[11:41:29] [User Authenticator #24/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:41:29] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64252] logged in with entity id 37443 at (333.72058035521894, 75.0, 204.99719480026496)
+[11:41:29] [Server thread/INFO]: NoService21 joined the game
+[11:41:42] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:41:42] [Server thread/INFO]: NoService21 left the game
+[11:41:53] [User Authenticator #25/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:41:53] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64280] logged in with entity id 37898 at (334.92000880819563, 75.0, 204.75155789639444)
+[11:41:53] [Server thread/INFO]: NoService21 joined the game
+[11:42:29] [Server thread/INFO]: <NoService21> zzzz
+[11:42:33] [Server thread/INFO]: <schomey> nether
+[11:42:39] [Server thread/INFO]: <NoService21> n1
+[11:45:35] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:45:35] [Server thread/INFO]: NoService21 left the game
+[11:45:48] [User Authenticator #26/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:45:48] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64428] logged in with entity id 39884 at (333.37422964437536, 75.0, 207.4079335051784)
+[11:45:48] [Server thread/INFO]: NoService21 joined the game
+[11:46:32] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:46:32] [Server thread/INFO]: NoService21 left the game
+[11:46:42] [User Authenticator #27/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:46:42] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64471] logged in with entity id 40156 at (337.92318314987256, 79.0, 203.9242641010925)
+[11:46:42] [Server thread/INFO]: NoService21 joined the game
+[11:51:01] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:51:01] [Server thread/INFO]: NoService21 left the game
+[11:51:25] [User Authenticator #28/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:51:25] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64640] logged in with entity id 41414 at (336.2209180404434, 79.5, 202.38404875610328)
+[11:51:25] [Server thread/INFO]: NoService21 joined the game
+[11:51:43] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:51:43] [Server thread/INFO]: NoService21 left the game
+[11:52:04] [User Authenticator #29/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:52:04] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64676] logged in with entity id 41622 at (338.88916216043776, 81.0, 201.03756046317852)
+[11:52:04] [Server thread/INFO]: NoService21 joined the game
+[11:53:05] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:53:05] [Server thread/INFO]: NoService21 left the game
+[11:53:24] [User Authenticator #30/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:53:25] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64736] logged in with entity id 42022 at (337.88705039576723, 81.5, 202.206591866641)
+[11:53:25] [Server thread/INFO]: NoService21 joined the game
+[11:53:56] [Server thread/INFO]: <NoService21> slep
+[11:53:59] [Server thread/INFO]: schomey lost connection: Disconnected
+[11:53:59] [Server thread/INFO]: schomey left the game
+[11:54:07] [User Authenticator #31/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[11:54:07] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:53360] logged in with entity id 42262 at (327.03666242522337, -59.0, 141.69999998807907)
+[11:54:07] [Server thread/INFO]: schomey joined the game
+[11:56:46] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:56:46] [Server thread/INFO]: NoService21 left the game
+[11:57:00] [User Authenticator #32/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:57:01] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64877] logged in with entity id 43256 at (335.36095457474886, 80.0, 201.98963974290484)
+[11:57:01] [Server thread/INFO]: NoService21 joined the game
+[11:58:07] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:58:07] [Server thread/INFO]: NoService21 left the game
+[11:58:27] [User Authenticator #33/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:58:28] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:64946] logged in with entity id 43755 at (342.286119787956, 81.0, 197.79477797274032)
+[11:58:28] [Server thread/INFO]: NoService21 joined the game
+[12:01:58] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[12:01:58] [Server thread/INFO]: NoService21 left the game
+[12:03:23] [User Authenticator #34/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:03:24] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:65152] logged in with entity id 44867 at (335.90143108943016, 71.0, 209.3116513649812)
+[12:03:24] [Server thread/INFO]: NoService21 joined the game
+[12:04:34] [Server thread/INFO]: <NoService21> eepy
+[12:04:36] [Server thread/INFO]: schomey lost connection: Disconnected
+[12:04:36] [Server thread/INFO]: schomey left the game
+[12:04:44] [User Authenticator #35/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[12:04:44] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:53397] logged in with entity id 45251 at (282.30000001192093, 75.0, 218.15820126669732)
+[12:04:44] [Server thread/INFO]: schomey joined the game
+[12:07:35] [Server thread/INFO]: <NoService21> van nalad string?
+[12:07:38] [Server thread/INFO]: <schomey> nope
+[12:07:42] [Server thread/INFO]: <NoService21> :(
+[12:07:51] [Server thread/INFO]: <schomey> XD
+[12:08:27] [Server thread/INFO]: <NoService21> telerakjuk adrian hazat tnt-vel? :)
+[12:08:35] [Server thread/INFO]: <schomey> >:)
+[12:14:36] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[12:14:36] [Server thread/INFO]: NoService21 left the game
+[12:15:01] [User Authenticator #36/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:15:02] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:65506] logged in with entity id 47673 at (358.4711033669936, 69.0, 204.17545832793698)
+[12:15:02] [Server thread/INFO]: NoService21 joined the game
+[12:15:10] [Server thread/INFO]: <NoService21> alszi
+[12:15:21] [Server thread/INFO]: <NoService21> gn
+[12:15:24] [Server thread/INFO]: schomey lost connection: Disconnected
+[12:15:24] [Server thread/INFO]: schomey left the game
+[12:15:32] [User Authenticator #37/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[12:15:32] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:53431] logged in with entity id 47896 at (285.6658377570558, 75.0, 216.97813911728903)
+[12:15:32] [Server thread/INFO]: schomey joined the game
+[12:17:50] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[12:17:50] [Server thread/INFO]: NoService21 left the game
+[12:18:22] [User Authenticator #38/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:18:22] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:49233] logged in with entity id 48686 at (338.99941568777194, 85.0, 199.45972112044387)
+[12:18:22] [Server thread/INFO]: NoService21 joined the game
+[12:18:33] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[12:18:33] [Server thread/INFO]: NoService21 left the game
+[12:18:46] [User Authenticator #39/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:18:47] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:49256] logged in with entity id 48810 at (340.87939943066385, 85.0, 200.65685835324996)
+[12:18:47] [Server thread/INFO]: NoService21 joined the game
+[12:23:36] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[12:23:36] [Server thread/INFO]: NoService21 left the game
+[12:23:47] [User Authenticator #40/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:23:47] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:49410] logged in with entity id 49971 at (341.19350014114406, 85.0, 195.14462164942748)
+[12:23:47] [Server thread/INFO]: NoService21 joined the game
+[12:23:53] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[12:23:53] [Server thread/INFO]: NoService21 left the game
+[12:24:10] [User Authenticator #41/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:24:10] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:49438] logged in with entity id 50129 at (341.1360095541436, 85.0, 196.10991772940463)
+[12:24:10] [Server thread/INFO]: NoService21 joined the game
+[12:27:03] [Server thread/INFO]: schomey lost connection: Disconnected
+[12:27:03] [Server thread/INFO]: schomey left the game
+[13:10:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=323, y=82, z=200} jd{x=323, y=82, z=198}
+[13:25:42] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[13:25:42] [Server thread/INFO]: NoService21 left the game
+[13:30:15] [User Authenticator #42/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[13:30:15] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:51284] logged in with entity id 63603 at (340.70158919010515, 70.0, 205.7524510542878)
+[13:30:15] [Server thread/INFO]: NoService21 joined the game
+[13:55:42] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[13:55:42] [Server thread/INFO]: NoService21 left the game
+[14:01:46] [User Authenticator #43/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[14:01:47] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:53769] logged in with entity id 70859 at (291.1643718287969, 75.0, 226.4222611650694)
+[14:01:47] [Server thread/INFO]: schomey joined the game
+[14:26:48] [User Authenticator #44/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[14:26:48] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:53311] logged in with entity id 75735 at (330.79157548363224, 75.0, 211.0375512684801)
+[14:26:48] [Server thread/INFO]: NoService21 joined the game
+[14:26:58] [Server thread/INFO]: <schomey> :3
+[14:27:02] [Server thread/INFO]: <NoService21> helo
+[14:28:03] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[14:28:03] [Server thread/INFO]: NoService21 left the game
+[14:33:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=308, y=80, z=235} jd{x=311, y=80, z=235}
+[14:39:59] [User Authenticator #45/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[14:40:00] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:1842:6425:5eca:88fb]:53986] logged in with entity id 78039 at (338.2884461741374, 73.0, 212.65699700243445)
+[14:40:00] [Server thread/INFO]: NoService21 joined the game
+[14:40:06] [Server thread/INFO]: <NoService21> helo cig
+[14:40:22] [Server thread/INFO]: <NoService21> mi volt a zene letolto oldal ami mukszik ha van spoty?
+[14:40:46] [Server thread/INFO]: <schomey> mp3-daddy.com
+[14:40:51] [Server thread/INFO]: <schomey> de nem mindig muxik
+[14:40:52] [Server thread/INFO]: <NoService21> :o
+[14:40:57] [Server thread/INFO]: <NoService21> oksa
+[14:41:04] [Server thread/INFO]: <NoService21> koszi!!
+[14:41:06] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[14:41:06] [Server thread/INFO]: NoService21 left the game
+[14:41:06] [Server thread/INFO]: <schomey> illetve spotifydown.com
+[14:45:38] [Server thread/INFO]: schomey lost connection: Disconnected
+[14:45:38] [Server thread/INFO]: schomey left the game
+[15:26:51] [User Authenticator #46/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[15:26:52] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:54152] logged in with entity id 79241 at (289.6998796751023, 75.0, 217.1399637206608)
+[15:26:52] [Server thread/INFO]: schomey joined the game
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=294, y=82, z=228} jd{x=293, y=84, z=232}
+[16:11:38] [Server thread/INFO]: [schomey: Saved the game]
+[16:15:08] [Server thread/INFO]: schomey lost connection: Disconnected
+[16:15:08] [Server thread/INFO]: schomey left the game
+[16:16:19] [User Authenticator #47/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[16:16:20] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:54425] logged in with entity id 88033 at (321.3043003933186, 84.0, 235.27839804675702)
+[16:16:20] [Server thread/INFO]: schomey joined the game
+[16:21:50] [Server thread/INFO]: schomey lost connection: Disconnected
+[16:21:50] [Server thread/INFO]: schomey left the game
+[16:23:17] [User Authenticator #48/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[16:23:17] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:54465] logged in with entity id 89046 at (321.0041031050237, 75.0, 216.73528955874818)
+[16:23:17] [Server thread/INFO]: schomey joined the game
+[16:29:41] [Server thread/INFO]: schomey lost connection: Disconnected
+[16:29:41] [Server thread/INFO]: schomey left the game
+[21:00:42] [User Authenticator #49/INFO]: UUID of player Teve02 is 3f7e0682-cc86-4de5-be94-0e9765664a9b
+[21:00:42] [Server thread/INFO]: Teve02[/[2001:4c4e:104d:cc00:61b3:9815:de63:8fdb]:51136] logged in with entity id 90639 at (372.2208928454466, 17.5, 128.9523260063263)
+[21:00:42] [Server thread/INFO]: Teve02 joined the game
+[21:03:42] [Server thread/INFO]: Teve02 lost connection: Disconnected
+[21:03:42] [Server thread/INFO]: Teve02 left the game
+[21:11:22] [User Authenticator #50/INFO]: UUID of player Teve02 is 3f7e0682-cc86-4de5-be94-0e9765664a9b
+[21:11:23] [Server thread/INFO]: Teve02[/[2001:4c4e:104d:cc00:61b3:9815:de63:8fdb]:52989] logged in with entity id 91628 at (370.9600083926165, 16.0, 140.55779815930086)
+[21:11:23] [Server thread/INFO]: Teve02 joined the game
+[22:06:44] [Server thread/INFO]: Teve02 has made the advancement [Minecraft: Trial(s) Edition]
+[22:12:31] [Server thread/INFO]: <Teve02> wee
+[22:51:42] [Server thread/INFO]: Teve02 lost connection: Disconnected
+[22:51:42] [Server thread/INFO]: Teve02 left the game
+[23:10:02] [User Authenticator #51/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[23:10:03] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:1d5b:77ad:8e61:e39f]:55046] logged in with entity id 114681 at (318.9713969134719, 76.5, 222.34196196115343)
+[23:10:03] [Server thread/INFO]: schomey joined the game
+[23:47:39] [User Authenticator #52/INFO]: UUID of player Myamo123 is e59e3829-a888-4d76-b072-efa12bacb776
+[23:47:39] [Server thread/INFO]: Myamo123[/[2a02:ab88:8500:7e00:5941:5268:c5b2:bf78]:55891] logged in with entity id 121527 at (390.95058621636, 76.5, 353.9447828767329)
+[23:47:39] [Server thread/INFO]: Myamo123 joined the game
+[23:47:45] [Server thread/INFO]: <schomey> heló :)
+[23:47:49] [Server thread/INFO]: <Myamo123> csao

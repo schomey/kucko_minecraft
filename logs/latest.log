@@ -1,96 +1,28 @@
-[00:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[00:05:36] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[00:05:36] [Server thread/INFO]: NoService21 left the game
-[00:05:50] [User Authenticator #40/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[00:05:50] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:c0a9:92db:b28c:5d0]:61752] logged in with entity id 51088 at (400.72255795501553, 68.0, 190.96341760721285)
-[00:05:50] [Server thread/INFO]: NoService21 joined the game
-[00:16:20] [Server thread/INFO]: schomey lost connection: Disconnected
-[00:16:20] [Server thread/INFO]: schomey left the game
-[00:16:24] [User Authenticator #41/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[00:16:25] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:8098:8504:dfcf:9c25]:58132] logged in with entity id 53997 at (297.30000001192093, -54.0, 280.56656013363806)
-[00:16:25] [Server thread/INFO]: schomey joined the game
-[00:16:26] [Server thread/INFO]: Teve02 lost connection: Disconnected
-[00:16:26] [Server thread/INFO]: Teve02 left the game
-[00:16:26] [Server thread/INFO]: schomey lost connection: Disconnected
-[00:16:26] [Server thread/INFO]: schomey left the game
-[00:16:28] [User Authenticator #42/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[00:16:29] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:8098:8504:dfcf:9c25]:58138] logged in with entity id 54042 at (297.30000001192093, -54.0, 280.56656013363806)
-[00:16:29] [Server thread/INFO]: schomey joined the game
-[00:25:05] [Server thread/INFO]: schomey lost connection: Disconnected
-[00:25:05] [Server thread/INFO]: schomey left the game
-[00:25:39] [User Authenticator #43/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[00:25:40] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:8098:8504:dfcf:9c25]:58177] logged in with entity id 56463 at (308.3423555175838, -51.0, 356.30000001192093)
-[00:25:40] [Server thread/INFO]: schomey joined the game
-[00:27:28] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[00:27:28] [Server thread/INFO]: NoService21 left the game
-[00:27:28] [Server thread/INFO]: schomey lost connection: Disconnected
-[00:27:28] [Server thread/INFO]: schomey left the game
-[00:27:31] [User Authenticator #44/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[00:27:32] [User Authenticator #45/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[00:27:32] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:8098:8504:dfcf:9c25]:58189] logged in with entity id 56986 at (320.4670134314496, -54.0, 292.2354384003363)
-[00:27:32] [Server thread/INFO]: schomey joined the game
-[00:27:32] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:c0a9:92db:b28c:5d0]:63262] logged in with entity id 56990 at (385.1066052928518, 74.0, 186.66033044160676)
-[00:27:32] [Server thread/INFO]: NoService21 joined the game
-[00:34:47] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[00:34:47] [Server thread/INFO]: NoService21 left the game
-[00:36:27] [User Authenticator #46/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[00:36:28] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:c0a9:92db:b28c:5d0]:64135] logged in with entity id 59545 at (381.0726675989107, 74.0, 192.51627874863823)
-[00:36:28] [Server thread/INFO]: NoService21 joined the game
-[00:36:35] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[00:36:35] [Server thread/INFO]: NoService21 left the game
-[00:36:42] [Server thread/INFO]: schomey lost connection: Disconnected
-[00:36:42] [Server thread/INFO]: schomey left the game
-[00:37:36] [User Authenticator #47/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[00:37:36] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:c0a9:92db:b28c:5d0]:64208] logged in with entity id 59703 at (381.0726675989107, 74.0, 192.51627874863823)
-[00:37:36] [Server thread/INFO]: NoService21 joined the game
-[00:43:42] [User Authenticator #48/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[00:43:42] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:8098:8504:dfcf:9c25]:58266] logged in with entity id 60895 at (334.99919426008654, 71.0, 218.12033654859738)
-[00:43:42] [Server thread/INFO]: schomey joined the game
-[01:02:07] [Server thread/INFO]: NoService21 has made the advancement [War Pigs]
-[01:02:10] [Server thread/INFO]: NoService21 has made the advancement [Hidden in the Depths]
-[01:02:10] [Server thread/INFO]: NoService21 has made the advancement [Who is Cutting Onions?]
-[01:09:14] [Server thread/INFO]: NoService21 has made the advancement [Oh Shiny]
-[01:13:45] [Server thread/INFO]: NoService21 tried to swim in lava to escape Magma Cube
-[01:22:10] [Server thread/INFO]: NoService21 was slain by Piglin
-[01:22:46] [Server thread/INFO]: Skrude lost connection: Disconnected
-[01:22:46] [Server thread/INFO]: Skrude left the game
-[01:22:54] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[01:22:54] [Server thread/INFO]: NoService21 left the game
-[01:22:56] [User Authenticator #49/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[01:22:56] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:c0a9:92db:b28c:5d0]:50932] logged in with entity id 74342 at (357.6108966518352, 68.0, 213.2620302006293)
-[01:22:56] [Server thread/INFO]: NoService21 joined the game
-[01:23:00] [User Authenticator #50/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[01:23:00] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:8019:bd14:65dc:627c]:53023] logged in with entity id 74388 at (346.2335999663747, 63.08576431274414, 296.4055148940315)
-[01:23:00] [Server thread/INFO]: Skrude joined the game
-[01:27:38] [Server thread/INFO]: Skrude has made the advancement [The Parrots and the Bats]
-[01:28:04] [Server thread/INFO]: <Skrude> csak basztak a birkák ja
-[01:28:51] [Server thread/INFO]: <Skrude> jol mondja tanult kollegam
-[01:34:35] [Server thread/INFO]: Skrude lost connection: Disconnected
-[01:34:35] [Server thread/INFO]: Skrude left the game
-[01:34:39] [User Authenticator #51/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[01:34:40] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:8019:bd14:65dc:627c]:53089] logged in with entity id 78662 at (311.3084104264214, 64.0, 394.29838911038155)
-[01:34:40] [Server thread/INFO]: Skrude joined the game
-[01:35:54] [Server thread/INFO]: NoService21 was slain by Piglin Brute
-[01:37:56] [Server thread/INFO]: <Skrude> ezt beloled nem néztem ki geci
-[01:38:06] [Server thread/INFO]: <Skrude> ha bandi mondana ugyanezt azt mondom ja, in character
-[01:38:25] [Server thread/INFO]: <Skrude> bocs kozbe mar Vivi nagyon bealudt szoval en mar innen nyomom
-[01:38:30] [Server thread/INFO]: <Skrude> fuj bazmeg
-[01:38:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=327, y=72, z=235} jd{x=326, y=71, z=236}
-[01:39:11] [Server thread/INFO]: NoService21 was slain by Piglin Brute
-[01:42:18] [Server thread/INFO]: <Skrude> pont mondani akartam
-[01:42:25] [Server thread/INFO]: <Skrude> hogy én is offolom magam
-[01:42:33] [Server thread/INFO]: Skrude lost connection: Disconnected
-[01:42:33] [Server thread/INFO]: Skrude left the game
-[01:44:54] [Server thread/INFO]: [schomey: Stopping the server]
-[01:44:54] [Server thread/INFO]: Stopping server
-[01:44:54] [Server thread/INFO]: Saving players
-[01:44:54] [Server thread/INFO]: schomey lost connection: Server closed
-[01:44:54] [Server thread/INFO]: schomey left the game
-[01:44:55] [Server thread/INFO]: Saving worlds
-[01:44:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[01:44:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[01:44:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:21:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:21:59] [ServerMain/INFO]: Loaded 1290 recipes
+[12:21:59] [ServerMain/INFO]: Loaded 1399 advancements
+[12:21:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[12:21:59] [Server thread/INFO]: Loading properties
+[12:21:59] [Server thread/INFO]: Default game type: SURVIVAL
+[12:21:59] [Server thread/INFO]: Generating keypair
+[12:21:59] [Server thread/INFO]: Starting Minecraft server on :::25565
+[12:21:59] [Server thread/INFO]: Using default channel type
+[12:22:00] [Server thread/INFO]: Preparing level "world"
+[12:22:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:22:00] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[12:22:00] [Server thread/INFO]: Time elapsed: 269 ms
+[12:22:00] [Server thread/INFO]: Done (0.960s)! For help, type "help"
+[12:22:30] [User Authenticator #1/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[12:22:31] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:390e:331e:4bd8:21bf]:61216] logged in with entity id 14 at (332.0214918756374, 75.0, 199.73431749533282)
+[12:22:31] [Server thread/INFO]: NoService21 joined the game
+[12:42:09] [Server thread/INFO]: Stopping the server
+[12:42:09] [Server thread/INFO]: Stopping server
+[12:42:09] [Server thread/INFO]: Saving players
+[12:42:09] [Server thread/INFO]: Saving worlds
+[12:42:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[12:42:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[12:42:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[12:42:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:42:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:42:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:42:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
