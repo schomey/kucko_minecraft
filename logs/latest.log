@@ -1,30 +1,11 @@
-[11:32:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:32:50] [ServerMain/INFO]: Loaded 1290 recipes
-[11:32:50] [ServerMain/INFO]: Loaded 1399 advancements
-[11:32:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[11:32:51] [Server thread/INFO]: Loading properties
-[11:32:51] [Server thread/INFO]: Default game type: SURVIVAL
-[11:32:51] [Server thread/INFO]: Generating keypair
-[11:32:51] [Server thread/INFO]: Starting Minecraft server on :::25565
-[11:32:51] [Server thread/INFO]: Using default channel type
-[11:32:51] [Server thread/INFO]: Preparing level "world"
-[11:32:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:32:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[11:32:52] [Server thread/INFO]: Time elapsed: 259 ms
-[11:32:52] [Server thread/INFO]: Done (0.909s)! For help, type "help"
-[11:32:59] [User Authenticator #1/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[11:32:59] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:a950:3829:af53:ab42]:64652] logged in with entity id 9 at (333.72543990456035, 75.0, 208.30423628757904)
-[11:32:59] [Server thread/INFO]: NoService21 joined the game
-[11:33:24] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[11:33:24] [Server thread/INFO]: NoService21 left the game
-[11:33:36] [Server thread/INFO]: Stopping the server
-[11:33:36] [Server thread/INFO]: Stopping server
-[11:33:36] [Server thread/INFO]: Saving players
-[11:33:36] [Server thread/INFO]: Saving worlds
-[11:33:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[11:33:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[11:33:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[11:33:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:33:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:33:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:33:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:25:12] [Server thread/INFO]: Stopping the server
+[00:25:12] [Server thread/INFO]: Stopping server
+[00:25:12] [Server thread/INFO]: Saving players
+[00:25:12] [Server thread/INFO]: Saving worlds
+[00:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[00:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[00:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
