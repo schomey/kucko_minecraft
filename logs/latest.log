@@ -1,11 +1,30 @@
-[00:47:29] [Server thread/INFO]: Stopping the server
-[00:47:29] [Server thread/INFO]: Stopping server
-[00:47:29] [Server thread/INFO]: Saving players
-[00:47:29] [Server thread/INFO]: Saving worlds
-[00:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[00:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[00:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[00:47:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:47:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:47:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:04:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:04:18] [ServerMain/INFO]: Loaded 1290 recipes
+[11:04:18] [ServerMain/INFO]: Loaded 1399 advancements
+[11:04:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[11:04:19] [Server thread/INFO]: Loading properties
+[11:04:19] [Server thread/INFO]: Default game type: SURVIVAL
+[11:04:19] [Server thread/INFO]: Generating keypair
+[11:04:19] [Server thread/INFO]: Starting Minecraft server on :::25565
+[11:04:19] [Server thread/INFO]: Using default channel type
+[11:04:19] [Server thread/INFO]: Preparing level "world"
+[11:04:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:04:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[11:04:20] [Server thread/INFO]: Time elapsed: 255 ms
+[11:04:20] [Server thread/INFO]: Done (0.905s)! For help, type "help"
+[11:05:21] [User Authenticator #1/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
+[11:05:22] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:a950:3829:af53:ab42]:62623] logged in with entity id 9 at (290.47640542227407, 75.0, 224.05939230032587)
+[11:05:22] [Server thread/INFO]: NoService21 joined the game
+[11:05:54] [Server thread/INFO]: NoService21 lost connection: Disconnected
+[11:05:54] [Server thread/INFO]: NoService21 left the game
+[11:06:00] [Server thread/INFO]: Stopping the server
+[11:06:00] [Server thread/INFO]: Stopping server
+[11:06:00] [Server thread/INFO]: Saving players
+[11:06:00] [Server thread/INFO]: Saving worlds
+[11:06:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[11:06:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[11:06:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[11:06:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:06:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:06:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:06:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
