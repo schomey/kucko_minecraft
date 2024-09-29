@@ -1,7 +1,7 @@
 import os
 import subprocess
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 import requests
 
 global server_dir
@@ -33,13 +33,25 @@ def start_server():
     if success:
         print(f"\nStarting server at {server_dir}")
         os.chdir(server_dir)
+
+        start_time = datetime.now()
+
         command = ["java", "-jar", "server.jar"]
         send_dc_message(1)
+
         subprocess.run(command)
+
+        end_time = datetime.now()
         send_dc_message(0)
-        suc = commit_and_push_changes()
-        if not suc:
-            return -1
+
+        time_difference = end_time - start_time
+        if time_difference > timedelta(hours=2):
+            suc = commit_and_push_changes()
+            if not suc:
+                return -1
+        else:
+            print("The server was running for less than 2 hours; skipping commit and push.")
+
     else:
         return -1
 
