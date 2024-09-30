@@ -3,11 +3,12 @@ import subprocess
 from pathlib import Path
 from datetime import datetime, timedelta
 import requests
+import config
 
 global server_dir
 
-# MODIFY SERVER LOCATION HERE:
-SERVER_LOCATION ="C:/Users/Mate/Documents/Minecraft_Server/kucko_minecraft"
+# MODIFY SERVER LOCATION IN CONFIG.PY:
+SERVER_LOCATION = config.SERVER_LOCATION
 
 
 def check_server_location():

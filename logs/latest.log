@@ -1,11 +1,38 @@
-[00:25:12] [Server thread/INFO]: Stopping the server
-[00:25:12] [Server thread/INFO]: Stopping server
-[00:25:12] [Server thread/INFO]: Saving players
-[00:25:12] [Server thread/INFO]: Saving worlds
-[00:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[00:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[00:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:25:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:36:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:36:33] [ServerMain/INFO]: Loaded 1290 recipes
+[11:36:34] [ServerMain/INFO]: Loaded 1399 advancements
+[11:36:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[11:36:35] [Server thread/INFO]: Loading properties
+[11:36:35] [Server thread/INFO]: Default game type: SURVIVAL
+[11:36:35] [Server thread/INFO]: Generating keypair
+[11:36:35] [Server thread/INFO]: Starting Minecraft server on :::25565
+[11:36:35] [Server thread/INFO]: Using default channel type
+[11:36:35] [Server thread/INFO]: Preparing level "world"
+[11:36:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:36:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:36:38] [Server thread/INFO]: Time elapsed: 559 ms
+[11:36:38] [Server thread/INFO]: Done (2.765s)! For help, type "help"
+[11:38:54] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[11:38:55] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:217d:f5d0:ae66:ea79]:58463] logged in with entity id 9 at (319.0411526799727, 76.5, 221.83101778193674)
+[11:38:56] [Server thread/INFO]: schomey joined the game
+[11:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[11:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12911ms or 258 ticks behind
+[11:53:27] [Server thread/INFO]: schomey lost connection: Disconnected
+[11:53:27] [Server thread/INFO]: schomey left the game
+[12:05:47] [User Authenticator #2/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[12:05:48] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:217d:f5d0:ae66:ea79]:58618] logged in with entity id 4196 at (302.69235473575174, 84.0, 221.73749532590358)
+[12:05:48] [Server thread/INFO]: schomey joined the game
+[12:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[12:47:21] [Server thread/INFO]: schomey lost connection: Disconnected
+[12:47:21] [Server thread/INFO]: schomey left the game
+[13:41:40] [Server thread/INFO]: Stopping the server
+[13:41:41] [Server thread/INFO]: Stopping server
+[13:41:41] [Server thread/INFO]: Saving players
+[13:41:41] [Server thread/INFO]: Saving worlds
+[13:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[13:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[13:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[13:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

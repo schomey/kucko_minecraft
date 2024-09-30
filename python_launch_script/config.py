@@ -1,0 +1,1 @@
+SERVER_LOCATION = "H:/Games/kucko_minecraft"
