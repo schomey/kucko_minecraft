@@ -1,1 +1,1 @@
-SERVER_LOCATION = "H:/Games/kucko_minecraft"
+SERVER_LOCATION = "C:/Users/Mate/Documents/Minecraft_Server/kucko_minecraft"
