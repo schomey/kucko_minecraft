@@ -1,44 +1,33 @@
-[17:24:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:24:03] [ServerMain/INFO]: Loaded 1290 recipes
-[17:24:04] [ServerMain/INFO]: Loaded 1399 advancements
-[17:24:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:24:04] [Server thread/INFO]: Loading properties
-[17:24:04] [Server thread/INFO]: Default game type: SURVIVAL
-[17:24:04] [Server thread/INFO]: Generating keypair
-[17:24:04] [Server thread/INFO]: Starting Minecraft server on :::25565
-[17:24:05] [Server thread/INFO]: Using default channel type
-[17:24:05] [Server thread/INFO]: Preparing level "world"
-[17:24:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:24:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:24:08] [Server thread/INFO]: Time elapsed: 431 ms
-[17:24:08] [Server thread/INFO]: Done (3.165s)! For help, type "help"
-[17:24:14] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[17:24:15] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:217d:f5d0:ae66:ea79]:64672] logged in with entity id 9 at (295.655721890419, 81.0, 221.16701381492172)
-[17:24:15] [Server thread/INFO]: schomey joined the game
-[17:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[17:31:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=53, y=31, z=41} jd{x=53, y=31, z=42}
-[17:31:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=53, y=31, z=41} jd{x=53, y=31, z=42}
-[17:31:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=53, y=31, z=41} jd{x=53, y=31, z=42}
-[17:35:32] [User Authenticator #2/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[17:35:33] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:b1ba:6f2:7e36:558e]:60679] logged in with entity id 4787 at (322.29957972603876, 59.0, 309.1057789629465)
-[17:35:33] [Server thread/INFO]: Skrude joined the game
-[17:44:20] [Server thread/INFO]: schomey lost connection: Disconnected
-[17:44:20] [Server thread/INFO]: schomey left the game
-[17:45:03] [User Authenticator #3/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[17:45:03] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:217d:f5d0:ae66:ea79]:64843] logged in with entity id 11607 at (383.5305252004253, 68.76636799395752, 183.32318341852337)
-[17:45:03] [Server thread/INFO]: schomey joined the game
-[17:51:16] [Server thread/INFO]: Skrude lost connection: Disconnected
-[17:51:16] [Server thread/INFO]: Skrude left the game
-[17:54:14] [Server thread/INFO]: schomey lost connection: Disconnected
-[17:54:14] [Server thread/INFO]: schomey left the game
-[18:01:06] [Server thread/INFO]: Stopping the server
-[18:01:06] [Server thread/INFO]: Stopping server
-[18:01:06] [Server thread/INFO]: Saving players
-[18:01:06] [Server thread/INFO]: Saving worlds
-[18:01:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[18:01:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[18:01:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[18:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:01:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:11:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:11:51] [ServerMain/INFO]: Loaded 1290 recipes
+[18:11:51] [ServerMain/INFO]: Loaded 1399 advancements
+[18:11:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:11:52] [Server thread/INFO]: Loading properties
+[18:11:52] [Server thread/INFO]: Default game type: SURVIVAL
+[18:11:52] [Server thread/INFO]: Generating keypair
+[18:11:52] [Server thread/INFO]: Starting Minecraft server on :::25565
+[18:11:52] [Server thread/INFO]: Using default channel type
+[18:11:52] [Server thread/INFO]: Preparing level "world"
+[18:11:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:11:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:11:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:11:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:11:56] [Server thread/INFO]: Time elapsed: 1492 ms
+[18:11:56] [Server thread/INFO]: Done (3.937s)! For help, type "help"
+[18:12:30] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[18:12:31] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:71b8:a51e:5ce5:8c3]:53821] logged in with entity id 8 at (305.6450850088602, 84.0, 222.23750001192093)
+[18:12:31] [Server thread/INFO]: schomey joined the game
+[18:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[18:13:02] [Server thread/INFO]: schomey lost connection: Disconnected
+[18:13:02] [Server thread/INFO]: schomey left the game
+[18:13:12] [Server thread/INFO]: Stopping the server
+[18:13:12] [Server thread/INFO]: Stopping server
+[18:13:12] [Server thread/INFO]: Saving players
+[18:13:12] [Server thread/INFO]: Saving worlds
+[18:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[18:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[18:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[18:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

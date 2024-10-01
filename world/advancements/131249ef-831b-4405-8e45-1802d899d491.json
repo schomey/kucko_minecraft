@@ -1793,7 +1793,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-09-21 01:28:27 +0200"
+      "minecraft:nether_wastes": "2024-09-21 01:28:27 +0200",
+      "minecraft:warped_forest": "2024-10-01 17:50:53 +0200"
     },
     "done": false
   },
