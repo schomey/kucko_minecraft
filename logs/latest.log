@@ -1,72 +1,31 @@
-[11:29:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:29:19] [ServerMain/INFO]: Loaded 1290 recipes
-[11:29:19] [ServerMain/INFO]: Loaded 1399 advancements
-[11:29:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[11:29:20] [Server thread/INFO]: Loading properties
-[11:29:20] [Server thread/INFO]: Default game type: SURVIVAL
-[11:29:20] [Server thread/INFO]: Generating keypair
-[11:29:20] [Server thread/INFO]: Starting Minecraft server on :::25565
-[11:29:20] [Server thread/INFO]: Using default channel type
-[11:29:20] [Server thread/INFO]: Preparing level "world"
-[11:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:29:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:29:23] [Server thread/INFO]: Time elapsed: 462 ms
-[11:29:23] [Server thread/INFO]: Done (3.448s)! For help, type "help"
-[11:30:29] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[11:30:30] [Server thread/INFO]: schomey[/192.168.0.24:57927] logged in with entity id 8 at (309.7647234322554, 80.0, 221.92660365784386)
-[11:30:30] [Server thread/INFO]: schomey joined the game
-[11:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[11:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[12:53:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=21, z=32} jd{x=34, y=20, z=32}
-[12:53:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=18, z=35} jd{x=34, y=17, z=34}
-[12:53:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=18, z=35} jd{x=34, y=17, z=34}
-[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=33, y=16, z=42}
-[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
-[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
-[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
-[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
-[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-40}
-[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
-[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
-[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
-[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
-[12:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
-[12:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
-[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
-[13:23:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=74, y=15, z=142} jd{x=78, y=14, z=125}
-[13:26:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=16, z=82} jd{x=38, y=15, z=83}
-[13:28:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=51, y=15, z=85}
-[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
-[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
-[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
-[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
-[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
-[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
-[13:38:39] [Server thread/INFO]: schomey has completed the challenge [Cover Me in Debris]
-[13:48:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=290, y=88, z=212} jd{x=294, y=92, z=206}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=294, y=93, z=205} jd{x=295, y=95, z=204}
-[13:56:13] [Server thread/INFO]: schomey lost connection: Disconnected
-[13:56:13] [Server thread/INFO]: schomey left the game
-[13:56:15] [User Authenticator #2/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[13:56:16] [Server thread/INFO]: schomey[/192.168.0.24:58515] logged in with entity id 51997 at (291.43932350596435, 75.0, 218.06752885715554)
-[13:56:16] [Server thread/INFO]: schomey joined the game
-[13:56:19] [Server thread/INFO]: [schomey: Saved the game]
-[13:56:22] [Server thread/INFO]: schomey lost connection: Disconnected
-[13:56:22] [Server thread/INFO]: schomey left the game
-[13:57:40] [Server thread/INFO]: Stopping the server
-[13:57:40] [Server thread/INFO]: Stopping server
-[13:57:40] [Server thread/INFO]: Saving players
-[13:57:40] [Server thread/INFO]: Saving worlds
-[13:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[13:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[13:57:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:11:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:11:51] [ServerMain/INFO]: Loaded 1290 recipes
+[18:11:51] [ServerMain/INFO]: Loaded 1399 advancements
+[18:11:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:11:52] [Server thread/INFO]: Loading properties
+[18:11:52] [Server thread/INFO]: Default game type: SURVIVAL
+[18:11:52] [Server thread/INFO]: Generating keypair
+[18:11:52] [Server thread/INFO]: Starting Minecraft server on :::25565
+[18:11:52] [Server thread/INFO]: Using default channel type
+[18:11:52] [Server thread/INFO]: Preparing level "world"
+[18:11:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:11:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:11:55] [Server thread/INFO]: Time elapsed: 662 ms
+[18:11:55] [Server thread/INFO]: Done (3.163s)! For help, type "help"
+[18:12:41] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[18:12:42] [Server thread/INFO]: schomey[/192.168.0.24:59148] logged in with entity id 8 at (291.44544005380925, 75.0, 222.59679257904904)
+[18:12:42] [Server thread/INFO]: schomey joined the game
+[18:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[19:26:10] [Server thread/INFO]: schomey lost connection: Disconnected
+[19:26:10] [Server thread/INFO]: schomey left the game
+[19:26:16] [Server thread/INFO]: Stopping the server
+[19:26:16] [Server thread/INFO]: Stopping server
+[19:26:16] [Server thread/INFO]: Saving players
+[19:26:16] [Server thread/INFO]: Saving worlds
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

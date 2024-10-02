@@ -18,6 +18,7 @@
       "minecraft:dripstone_caves": "2024-09-19 18:19:04 +0200",
       "minecraft:old_growth_birch_forest": "2024-09-19 18:26:33 +0200",
       "minecraft:windswept_forest": "2024-09-26 16:47:26 +0200",
+      "minecraft:deep_dark": "2024-10-02 18:57:02 +0200",
       "minecraft:jungle": "2024-09-19 18:23:34 +0200",
       "minecraft:ocean": "2024-09-26 16:30:18 +0200",
       "minecraft:cherry_grove": "2024-09-19 14:08:14 +0200",
@@ -568,6 +569,7 @@
       "minecraft:blaze": "2024-09-29 22:40:20 +0200",
       "minecraft:skeleton": "2024-09-19 13:55:04 +0200",
       "minecraft:zombified_piglin": "2024-09-23 22:22:02 +0200",
+      "minecraft:witch": "2024-10-02 18:55:41 +0200",
       "minecraft:hoglin": "2024-10-01 14:59:22 +0200",
       "minecraft:piglin": "2024-09-26 16:10:38 +0200",
       "minecraft:enderman": "2024-09-25 11:20:55 +0200",
@@ -3352,6 +3354,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-10-02 13:38:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-10-02 19:13:32 +0200"
     },
     "done": true
   },
