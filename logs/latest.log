@@ -1,60 +1,72 @@
-[18:40:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:40:19] [ServerMain/INFO]: Loaded 1290 recipes
-[18:40:19] [ServerMain/INFO]: Loaded 1399 advancements
-[18:40:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:40:20] [Server thread/INFO]: Loading properties
-[18:40:20] [Server thread/INFO]: Default game type: SURVIVAL
-[18:40:20] [Server thread/INFO]: Generating keypair
-[18:40:20] [Server thread/INFO]: Starting Minecraft server on :::25565
-[18:40:20] [Server thread/INFO]: Using default channel type
-[18:40:20] [Server thread/INFO]: Preparing level "world"
-[18:40:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:40:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:40:21] [Server thread/INFO]: Time elapsed: 309 ms
-[18:40:21] [Server thread/INFO]: Done (1.053s)! For help, type "help"
-[18:44:51] [User Authenticator #1/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[18:44:52] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:c9d9:df82:4781:608e]:60153] logged in with entity id 8 at (319.74114306189534, 66.5, 196.22262686110176)
-[18:44:52] [Server thread/INFO]: NoService21 joined the game
-[18:47:38] [User Authenticator #2/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[18:47:39] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:71b8:a51e:5ce5:8c3]:54798] logged in with entity id 1334 at (283.9711982230153, 75.0, 226.26522443952342)
-[18:47:39] [Server thread/INFO]: schomey joined the game
-[18:47:45] [Server thread/INFO]: [NoService21: The difficulty has been set to Hard]
-[18:47:59] [Server thread/INFO]: Villager cmk['Librarian'/24, l='ServerLevel[Survival:2024]', x=324.50, y=74.19, z=204.70] died, message: 'Librarian was slain by kollár dávid 2'
-[18:48:10] [User Authenticator #3/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[18:48:11] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:9827:598c:91a7:9222]:49195] logged in with entity id 1463 at (345.2230669959058, 69.0, 254.2079308681137)
-[18:48:11] [Server thread/INFO]: Skrude joined the game
-[18:49:24] [Server thread/INFO]: Villager cmk['Librarian'/35, l='ServerLevel[Survival:2024]', x=320.50, y=74.19, z=188.30] died, message: 'Librarian was slain by kollár dávid 2'
-[18:52:34] [Server thread/INFO]: Skrude has made the advancement [Cover Me with Diamonds]
-[18:56:19] [Server thread/INFO]: Villager cmk['Librarian'/2857, l='ServerLevel[Survival:2024]', x=320.50, y=74.19, z=188.70] died, message: 'Librarian was slain by kollár dávid 2'
-[19:02:51] [Server thread/INFO]: Skrude lost connection: Disconnected
-[19:02:51] [Server thread/INFO]: Skrude left the game
-[19:02:52] [Server thread/INFO]: schomey lost connection: Disconnected
-[19:02:52] [Server thread/INFO]: schomey left the game
-[19:02:55] [User Authenticator #4/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[19:02:55] [User Authenticator #5/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[19:02:56] [Server thread/INFO]: schomey[/[2a02:ab88:c05:980:71b8:a51e:5ce5:8c3]:54946] logged in with entity id 5937 at (329.8341287584416, -59.0, 294.50053015638764)
-[19:02:56] [Server thread/INFO]: schomey joined the game
-[19:02:56] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:9827:598c:91a7:9222]:49280] logged in with entity id 5938 at (328.38468357934903, 56.0, 312.438380166362)
-[19:02:56] [Server thread/INFO]: Skrude joined the game
-[19:03:47] [Server thread/INFO]: Skrude lost connection: Disconnected
-[19:03:47] [Server thread/INFO]: Skrude left the game
-[19:03:50] [User Authenticator #6/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[19:03:50] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:9827:598c:91a7:9222]:49296] logged in with entity id 6396 at (328.8999872533959, 56.0, 314.0292835814989)
-[19:03:50] [Server thread/INFO]: Skrude joined the game
-[19:11:54] [Server thread/INFO]: schomey lost connection: Disconnected
-[19:11:54] [Server thread/INFO]: schomey left the game
-[19:12:00] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[19:12:00] [Server thread/INFO]: NoService21 left the game
-[19:44:14] [Server thread/INFO]: Skrude lost connection: Disconnected
-[19:44:14] [Server thread/INFO]: Skrude left the game
-[23:54:55] [Server thread/INFO]: Stopping the server
-[23:54:55] [Server thread/INFO]: Stopping server
-[23:54:55] [Server thread/INFO]: Saving players
-[23:54:55] [Server thread/INFO]: Saving worlds
-[23:54:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[23:54:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[23:54:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[23:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:29:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:29:19] [ServerMain/INFO]: Loaded 1290 recipes
+[11:29:19] [ServerMain/INFO]: Loaded 1399 advancements
+[11:29:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[11:29:20] [Server thread/INFO]: Loading properties
+[11:29:20] [Server thread/INFO]: Default game type: SURVIVAL
+[11:29:20] [Server thread/INFO]: Generating keypair
+[11:29:20] [Server thread/INFO]: Starting Minecraft server on :::25565
+[11:29:20] [Server thread/INFO]: Using default channel type
+[11:29:20] [Server thread/INFO]: Preparing level "world"
+[11:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:29:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:29:23] [Server thread/INFO]: Time elapsed: 462 ms
+[11:29:23] [Server thread/INFO]: Done (3.448s)! For help, type "help"
+[11:30:29] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[11:30:30] [Server thread/INFO]: schomey[/192.168.0.24:57927] logged in with entity id 8 at (309.7647234322554, 80.0, 221.92660365784386)
+[11:30:30] [Server thread/INFO]: schomey joined the game
+[11:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[11:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[12:53:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=21, z=32} jd{x=34, y=20, z=32}
+[12:53:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=18, z=35} jd{x=34, y=17, z=34}
+[12:53:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=18, z=35} jd{x=34, y=17, z=34}
+[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=33, y=16, z=42}
+[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
+[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
+[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
+[12:53:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=15, z=41} jd{x=32, y=16, z=42}
+[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-40}
+[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
+[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
+[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
+[12:55:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
+[12:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
+[12:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=14, y=16, z=-44} jd{x=52, y=16, z=-39}
+[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:05:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=15, z=134} jd{x=177, y=15, z=132}
+[13:23:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=74, y=15, z=142} jd{x=78, y=14, z=125}
+[13:26:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=16, z=82} jd{x=38, y=15, z=83}
+[13:28:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=51, y=15, z=85}
+[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
+[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
+[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
+[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
+[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
+[13:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=13, z=83} jd{x=52, y=15, z=85}
+[13:38:39] [Server thread/INFO]: schomey has completed the challenge [Cover Me in Debris]
+[13:48:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=290, y=88, z=212} jd{x=294, y=92, z=206}
+[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=294, y=93, z=205} jd{x=295, y=95, z=204}
+[13:56:13] [Server thread/INFO]: schomey lost connection: Disconnected
+[13:56:13] [Server thread/INFO]: schomey left the game
+[13:56:15] [User Authenticator #2/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[13:56:16] [Server thread/INFO]: schomey[/192.168.0.24:58515] logged in with entity id 51997 at (291.43932350596435, 75.0, 218.06752885715554)
+[13:56:16] [Server thread/INFO]: schomey joined the game
+[13:56:19] [Server thread/INFO]: [schomey: Saved the game]
+[13:56:22] [Server thread/INFO]: schomey lost connection: Disconnected
+[13:56:22] [Server thread/INFO]: schomey left the game
+[13:57:40] [Server thread/INFO]: Stopping the server
+[13:57:40] [Server thread/INFO]: Stopping server
+[13:57:40] [Server thread/INFO]: Saving players
+[13:57:40] [Server thread/INFO]: Saving worlds
+[13:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[13:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[13:57:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:57:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
