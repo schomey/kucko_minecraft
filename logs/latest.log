@@ -1,31 +1,37 @@
-[18:11:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:11:51] [ServerMain/INFO]: Loaded 1290 recipes
-[18:11:51] [ServerMain/INFO]: Loaded 1399 advancements
-[18:11:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:11:52] [Server thread/INFO]: Loading properties
-[18:11:52] [Server thread/INFO]: Default game type: SURVIVAL
-[18:11:52] [Server thread/INFO]: Generating keypair
-[18:11:52] [Server thread/INFO]: Starting Minecraft server on :::25565
-[18:11:52] [Server thread/INFO]: Using default channel type
-[18:11:52] [Server thread/INFO]: Preparing level "world"
-[18:11:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:11:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:11:55] [Server thread/INFO]: Time elapsed: 662 ms
-[18:11:55] [Server thread/INFO]: Done (3.163s)! For help, type "help"
-[18:12:41] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
-[18:12:42] [Server thread/INFO]: schomey[/192.168.0.24:59148] logged in with entity id 8 at (291.44544005380925, 75.0, 222.59679257904904)
-[18:12:42] [Server thread/INFO]: schomey joined the game
-[18:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
-[19:26:10] [Server thread/INFO]: schomey lost connection: Disconnected
-[19:26:10] [Server thread/INFO]: schomey left the game
-[19:26:16] [Server thread/INFO]: Stopping the server
-[19:26:16] [Server thread/INFO]: Stopping server
-[19:26:16] [Server thread/INFO]: Saving players
-[19:26:16] [Server thread/INFO]: Saving worlds
-[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:09:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:09:24] [ServerMain/INFO]: Loaded 1290 recipes
+[15:09:24] [ServerMain/INFO]: Loaded 1399 advancements
+[15:09:25] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:09:25] [Server thread/INFO]: Loading properties
+[15:09:25] [Server thread/INFO]: Default game type: SURVIVAL
+[15:09:25] [Server thread/INFO]: Generating keypair
+[15:09:25] [Server thread/INFO]: Starting Minecraft server on :::25565
+[15:09:25] [Server thread/INFO]: Using default channel type
+[15:09:25] [Server thread/INFO]: Preparing level "world"
+[15:09:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:09:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:09:28] [Server thread/INFO]: Time elapsed: 490 ms
+[15:09:28] [Server thread/INFO]: Done (2.738s)! For help, type "help"
+[15:10:46] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[15:10:47] [Server thread/INFO]: schomey[/192.168.0.24:60362] logged in with entity id 8 at (289.0753237358638, 75.0, 213.94806541049502)
+[15:10:47] [Server thread/INFO]: schomey joined the game
+[15:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[15:26:03] [Server thread/INFO]: schomey lost connection: Disconnected
+[15:26:03] [Server thread/INFO]: schomey left the game
+[15:40:23] [User Authenticator #2/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[15:40:23] [Server thread/INFO]: schomey[/192.168.0.24:60549] logged in with entity id 3182 at (286.80267194828207, 75.0, 227.69999998807907)
+[15:40:24] [Server thread/INFO]: schomey joined the game
+[15:40:27] [Server thread/INFO]: [schomey: Saved the game]
+[15:40:30] [Server thread/INFO]: [schomey: Stopping the server]
+[15:40:30] [Server thread/INFO]: Stopping server
+[15:40:30] [Server thread/INFO]: Saving players
+[15:40:30] [Server thread/INFO]: schomey lost connection: Server closed
+[15:40:30] [Server thread/INFO]: schomey left the game
+[15:40:30] [Server thread/INFO]: Saving worlds
+[15:40:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[15:40:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[15:40:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[15:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
