@@ -1,55 +1,55 @@
-[11:03:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:03:25] [ServerMain/INFO]: Loaded 1290 recipes
-[11:03:26] [ServerMain/INFO]: Loaded 1399 advancements
-[11:03:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[11:03:26] [Server thread/INFO]: Loading properties
-[11:03:26] [Server thread/INFO]: Default game type: SURVIVAL
-[11:03:26] [Server thread/INFO]: Generating keypair
-[11:03:27] [Server thread/INFO]: Starting Minecraft server on :::25565
-[11:03:27] [Server thread/INFO]: Using default channel type
-[11:03:27] [Server thread/INFO]: Preparing level "world"
-[11:03:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:03:28] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[11:03:28] [Server thread/INFO]: Time elapsed: 458 ms
-[11:03:28] [Server thread/INFO]: Done (1.231s)! For help, type "help"
-[12:41:03] [User Authenticator #1/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[12:41:04] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:84f:f9cf:3d96:6910]:50348] logged in with entity id 10 at (312.5097440691236, 56.0, 312.4437319058563)
-[12:41:04] [Server thread/INFO]: Skrude joined the game
-[12:58:45] [Server thread/INFO]: Skrude lost connection: Disconnected
-[12:58:45] [Server thread/INFO]: Skrude left the game
-[12:59:45] [User Authenticator #2/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[12:59:46] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:84f:f9cf:3d96:6910]:50427] logged in with entity id 5542 at (81.86181203510905, -17.0, -401.9576335907265)
-[12:59:46] [Server thread/INFO]: Skrude joined the game
-[13:49:55] [Server thread/INFO]: Skrude lost connection: Timed out
-[13:49:55] [Server thread/INFO]: Skrude left the game
-[13:51:44] [User Authenticator #3/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[13:51:44] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:cc3b:df7e:c267:d41f]:63709] logged in with entity id 18112 at (318.9632803503661, 66.5625, 203.11478244718805)
-[13:51:44] [Server thread/INFO]: NoService21 joined the game
-[13:51:50] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[13:51:50] [Server thread/INFO]: NoService21 left the game
-[13:52:20] [User Authenticator #4/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[13:52:21] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:84f:f9cf:3d96:6910]:50738] logged in with entity id 18988 at (333.8856491962358, 53.0, 309.856078500182)
-[13:52:21] [Server thread/INFO]: Skrude joined the game
-[13:53:39] [Server thread/INFO]: Villager cmk['Villager'/19290, l='ServerLevel[Survival:2024]', x=375.30, y=68.85, z=191.01] died, message: 'Villager suffocated in a wall'
-[14:07:18] [Server thread/INFO]: Skrude lost connection: Disconnected
-[14:07:18] [Server thread/INFO]: Skrude left the game
-[16:44:11] [User Authenticator #5/INFO]: UUID of player Teve02 is 3f7e0682-cc86-4de5-be94-0e9765664a9b
-[16:44:12] [Server thread/INFO]: Teve02[/[2001:4c4e:1056:3c00:fd3a:a8d:39c:f43f]:56775] logged in with entity id 22982 at (382.9360136172854, 69.0, 180.79191726624444)
-[16:44:12] [Server thread/INFO]: Teve02 joined the game
-[16:58:26] [Server thread/INFO]: Teve02 lost connection: Disconnected
-[16:58:26] [Server thread/INFO]: Teve02 left the game
-[16:59:22] [User Authenticator #6/INFO]: UUID of player Teve02 is 3f7e0682-cc86-4de5-be94-0e9765664a9b
-[16:59:22] [Server thread/INFO]: Teve02[/[2001:4c4e:1056:3c00:fd3a:a8d:39c:f43f]:61374] logged in with entity id 27600 at (210.71654958802583, 72.0, 442.7160957301332)
-[16:59:23] [Server thread/INFO]: Teve02 joined the game
-[17:00:37] [Server thread/INFO]: Teve02 lost connection: Disconnected
-[17:00:37] [Server thread/INFO]: Teve02 left the game
-[17:05:21] [User Authenticator #7/INFO]: UUID of player Teve02 is 3f7e0682-cc86-4de5-be94-0e9765664a9b
-[17:05:21] [Server thread/INFO]: Teve02[/[2001:4c4e:1056:3c00:fd3a:a8d:39c:f43f]:62842] logged in with entity id 28383 at (210.71654958802583, 72.0, 442.7160957301332)
-[17:05:21] [Server thread/INFO]: Teve02 joined the game
-[17:05:41] [User Authenticator #8/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
-[17:05:42] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:84f:f9cf:3d96:6910]:51336] logged in with entity id 29132 at (318.64270896984135, 56.0, 307.52921624121404)
-[17:05:42] [Server thread/INFO]: Skrude joined the game
-[17:05:51] [Server thread/INFO]: <Teve02> halihó!
-[17:05:51] [Server thread/INFO]: <Skrude> üdv ismét
-[17:31:51] [Server thread/INFO]: Teve02 lost connection: Disconnected
-[17:31:51] [Server thread/INFO]: Teve02 left the game
+[21:56:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:56:29] [ServerMain/INFO]: Loaded 1290 recipes
+[21:56:29] [ServerMain/INFO]: Loaded 1399 advancements
+[21:56:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:56:30] [Server thread/INFO]: Loading properties
+[21:56:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:56:30] [Server thread/INFO]: Generating keypair
+[21:56:31] [Server thread/INFO]: Starting Minecraft server on :::25565
+[21:56:31] [Server thread/INFO]: Using default channel type
+[21:56:31] [Server thread/INFO]: Preparing level "world"
+[21:56:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:56:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:56:33] [Server thread/INFO]: Time elapsed: 482 ms
+[21:56:34] [Server thread/INFO]: Done (2.814s)! For help, type "help"
+[21:58:27] [User Authenticator #2/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
+[21:58:27] [User Authenticator #1/INFO]: UUID of player schomey is 78a39070-eabf-4921-aec3-a931209e14c4
+[21:58:28] [Server thread/INFO]: schomey[/192.168.0.24:61616] logged in with entity id 10 at (286.80267194828207, 75.0, 227.69999998807907)
+[21:58:29] [Server thread/INFO]: schomey joined the game
+[21:58:29] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:84f:f9cf:3d96:6910]:53639] logged in with entity id 11 at (-27.69999998807907, 16.861988864095785, -428.5135912788325)
+[21:58:29] [Server thread/INFO]: Skrude joined the game
+[21:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[21:58:39] [Server thread/INFO]: <Skrude> cső szkúma
+[21:58:43] [Server thread/INFO]: <schomey> cső zoló
+[21:58:46] [Server thread/INFO]: <Skrude> nagyon messze vagyok a házamtól geci
+[21:58:55] [Server thread/INFO]: <Skrude> kikúrt a szerver egy óriási barlang kellős közepén
+[21:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10261ms or 205 ticks behind
+[22:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[22:19:26] [Server thread/INFO]: Villager cmk['Villager'/1132, l='ServerLevel[Survival:2024]', x=375.30, y=69.00, z=191.01] died, message: 'Villager suffocated in a wall'
+[22:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[22:30:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=37, z=39} jd{x=51, y=36, z=38}
+[22:30:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=48, y=34, z=43} jd{x=49, y=34, z=41}
+[22:30:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=48, y=34, z=43} jd{x=49, y=34, z=41}
+[22:30:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=48, y=34, z=43} jd{x=49, y=34, z=41}
+[22:30:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=48, y=35, z=42} jd{x=46, y=31, z=43}
+[22:33:49] [Server thread/INFO]: Skrude has made the advancement [Hidden in the Depths]
+[22:36:13] [Server thread/INFO]: schomey lost connection: Disconnected
+[22:36:13] [Server thread/INFO]: schomey left the game
+[22:38:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=202, y=13, z=127} jd{x=203, y=13, z=128}
+[22:38:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=202, y=13, z=127} jd{x=203, y=13, z=128}
+[22:38:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=202, y=13, z=127} jd{x=203, y=13, z=128}
+[22:45:28] [Server thread/INFO]: Skrude lost connection: Disconnected
+[22:45:28] [Server thread/INFO]: Skrude left the game
+[22:46:10] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:46:10] [Server thread/INFO]: Saved the game
+[22:46:15] [Server thread/INFO]: Stopping the server
+[22:46:15] [Server thread/INFO]: Stopping server
+[22:46:15] [Server thread/INFO]: Saving players
+[22:46:15] [Server thread/INFO]: Saving worlds
+[22:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[22:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[22:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[22:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
