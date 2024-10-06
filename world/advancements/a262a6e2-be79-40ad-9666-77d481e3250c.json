@@ -4612,17 +4612,17 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-10-06 01:21:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-10-06 01:33:40 +0200"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-10-06 01:46:34 +0200"
-    },
-    "done": true
   },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
@@ -4630,9 +4630,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "netherite_armor": "2024-10-06 01:21:44 +0200"
+      "has_compass": "2024-10-06 01:46:34 +0200"
     },
     "done": true
   },

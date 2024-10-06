@@ -564,6 +564,7 @@
       "bread": "2024-09-21 01:00:26 +0200",
       "cooked_mutton": "2024-09-20 23:40:02 +0200",
       "potato": "2024-09-24 22:52:56 +0200",
+      "cooked_cod": "2024-10-06 17:37:16 +0200",
       "baked_potato": "2024-09-22 22:18:30 +0200",
       "melon_slice": "2024-09-22 20:47:41 +0200",
       "cooked_salmon": "2024-09-21 00:01:48 +0200",
@@ -3391,15 +3392,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-10-05 23:22:45 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-10-05 22:45:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-10-05 23:22:45 +0200"
     },
     "done": true
   },
