@@ -12,6 +12,7 @@
       "minecraft:beach": "2024-09-22 13:30:39 +0200",
       "minecraft:dark_forest": "2024-09-28 18:20:08 +0200",
       "minecraft:forest": "2024-09-20 23:53:43 +0200",
+      "minecraft:sparse_jungle": "2024-10-05 11:40:53 +0200",
       "minecraft:river": "2024-09-20 23:48:55 +0200",
       "minecraft:lukewarm_ocean": "2024-09-28 01:11:45 +0200",
       "minecraft:lush_caves": "2024-09-28 18:24:43 +0200",
@@ -24,6 +25,7 @@
       "minecraft:sunflower_plains": "2024-09-22 01:22:28 +0200",
       "minecraft:birch_forest": "2024-09-22 00:07:20 +0200",
       "minecraft:savanna": "2024-09-20 23:25:48 +0200",
+      "minecraft:bamboo_jungle": "2024-10-05 22:49:20 +0200",
       "minecraft:plains": "2024-09-20 23:21:09 +0200"
     },
     "done": false
@@ -2400,6 +2402,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-10-05 23:33:59 +0200",
       "minecraft:sheep": "2024-09-22 01:27:38 +0200"
     },
     "done": false
@@ -3334,12 +3337,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-10-01 19:10:41 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-10-01 19:06:29 +0200"
@@ -3352,15 +3349,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-10-01 19:10:51 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-10-01 19:06:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-01 19:10:41 +0200"
     },
     "done": true
   },
@@ -3373,6 +3370,36 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-10-01 19:10:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-10-01 19:10:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-10-05 11:48:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-10-05 12:06:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-10-05 23:22:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-10-05 22:45:13 +0200"
     },
     "done": true
   },
