@@ -3369,5 +3369,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2024-10-07 12:02:24 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
