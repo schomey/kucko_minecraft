@@ -7,8 +7,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-10-08 21:43:29 +0200",
+      "minecraft:snowy_slopes": "2024-10-08 22:02:10 +0200",
+      "minecraft:old_growth_pine_taiga": "2024-10-08 21:58:59 +0200",
       "minecraft:forest": "2024-09-20 23:52:06 +0200",
+      "minecraft:taiga": "2024-10-08 21:43:34 +0200",
+      "minecraft:deep_ocean": "2024-10-08 21:50:20 +0200",
       "minecraft:lush_caves": "2024-09-26 16:58:37 +0200",
+      "minecraft:deep_cold_ocean": "2024-10-08 21:43:58 +0200",
       "minecraft:windswept_forest": "2024-09-21 23:46:43 +0200",
       "minecraft:jungle": "2024-09-22 12:18:30 +0200",
       "minecraft:ocean": "2024-09-26 16:51:26 +0200",
@@ -16,6 +22,7 @@
       "minecraft:sunflower_plains": "2024-09-20 23:48:28 +0200",
       "minecraft:birch_forest": "2024-09-21 00:10:17 +0200",
       "minecraft:windswept_hills": "2024-09-27 18:21:22 +0200",
+      "minecraft:old_growth_spruce_taiga": "2024-10-08 21:52:27 +0200",
       "minecraft:bamboo_jungle": "2024-09-22 12:18:03 +0200",
       "minecraft:windswept_savanna": "2024-09-26 16:51:32 +0200",
       "minecraft:flower_forest": "2024-09-20 23:55:16 +0200",
@@ -25,13 +32,16 @@
       "minecraft:sparse_jungle": "2024-09-22 12:12:04 +0200",
       "minecraft:river": "2024-09-20 23:52:02 +0200",
       "minecraft:lukewarm_ocean": "2024-09-22 12:30:35 +0200",
+      "minecraft:stony_shore": "2024-10-08 21:45:46 +0200",
       "minecraft:dripstone_caves": "2024-09-21 00:09:09 +0200",
       "minecraft:frozen_peaks": "2024-09-27 18:08:42 +0200",
       "minecraft:old_growth_birch_forest": "2024-09-21 00:10:49 +0200",
       "minecraft:swamp": "2024-09-26 16:47:56 +0200",
       "minecraft:grove": "2024-09-27 18:08:37 +0200",
+      "minecraft:meadow": "2024-10-08 21:53:55 +0200",
       "minecraft:savanna": "2024-09-21 22:41:57 +0200",
-      "minecraft:plains": "2024-09-20 23:20:54 +0200"
+      "minecraft:plains": "2024-09-20 23:20:54 +0200",
+      "minecraft:jagged_peaks": "2024-10-08 21:48:15 +0200"
     },
     "done": false
   },
@@ -576,6 +586,8 @@
       "minecraft:zombified_piglin": "2024-09-23 22:17:16 +0200",
       "minecraft:witch": "2024-09-26 17:47:12 +0200",
       "minecraft:wither_skeleton": "2024-09-26 16:10:44 +0200",
+      "minecraft:ender_dragon": "2024-10-08 20:52:26 +0200",
+      "minecraft:shulker": "2024-10-08 21:05:25 +0200",
       "minecraft:cave_spider": "2024-09-28 18:36:04 +0200",
       "minecraft:piglin": "2024-09-21 01:16:45 +0200",
       "minecraft:enderman": "2024-09-21 01:13:21 +0200",
@@ -4633,6 +4645,120 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-10-06 01:46:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-10-08 18:24:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-10-08 21:00:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-10-08 20:52:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-10-08 21:14:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-10-08 21:49:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-10-08 21:05:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-10-08 20:57:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-08 21:05:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-08 21:14:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-10-08 20:48:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-08 21:49:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-10-08 21:05:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-10-08 20:48:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
     },
     "done": true
   },
