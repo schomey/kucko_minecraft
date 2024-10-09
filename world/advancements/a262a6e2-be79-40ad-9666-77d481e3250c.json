@@ -4654,9 +4654,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_chorus_fruit": "2024-10-08 21:00:49 +0200"
+      "entered_end": "2024-10-08 20:48:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-10-08 20:48:24 +0200"
     },
     "done": true
   },
@@ -4666,21 +4672,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_slab": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "has_purpur_block": "2024-10-08 21:10:59 +0200"
+      "entered_end_gateway": "2024-10-08 20:57:43 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_spire_armor_trim_smithing_template": "2024-10-08 21:14:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2024-10-08 21:49:04 +0200"
+      "has_chorus_fruit": "2024-10-08 21:00:49 +0200"
     },
     "done": true
   },
@@ -4690,15 +4690,21 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "entered_end_gateway": "2024-10-08 20:57:43 +0200"
+      "has_shulker_shell": "2024-10-08 21:05:27 +0200"
     },
     "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-10-08 21:05:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-10-08 21:10:59 +0200"
     },
     "done": true
   },
@@ -4714,33 +4720,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-10-08 21:14:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-10-08 20:48:24 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-10-08 21:10:59 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-10-08 21:49:04 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-10-08 21:05:27 +0200"
     },
     "done": true
   },
@@ -4750,15 +4732,33 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-10-08 20:48:24 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-10-08 21:10:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-10-08 21:14:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-08 21:14:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-10-08 21:49:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-08 21:49:04 +0200"
     },
     "done": true
   },
