@@ -7,29 +7,30 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2024-09-19 18:11:33 +0200",
-      "minecraft:savanna_plateau": "2024-09-23 19:13:22 +0200",
-      "minecraft:beach": "2024-09-26 16:51:10 +0200",
-      "minecraft:dark_forest": "2024-09-26 16:53:22 +0200",
       "minecraft:forest": "2024-09-19 18:02:37 +0200",
-      "minecraft:sparse_jungle": "2024-09-19 13:37:55 +0200",
-      "minecraft:river": "2024-09-19 18:09:29 +0200",
-      "minecraft:lukewarm_ocean": "2024-10-08 21:45:22 +0200",
-      "minecraft:stony_shore": "2024-10-09 00:03:46 +0200",
       "minecraft:lush_caves": "2024-09-26 16:57:56 +0200",
-      "minecraft:dripstone_caves": "2024-09-19 18:19:04 +0200",
-      "minecraft:old_growth_birch_forest": "2024-09-19 18:26:33 +0200",
       "minecraft:windswept_forest": "2024-09-26 16:47:26 +0200",
-      "minecraft:deep_dark": "2024-10-02 18:57:02 +0200",
       "minecraft:jungle": "2024-09-19 18:23:34 +0200",
       "minecraft:ocean": "2024-09-26 16:30:18 +0200",
       "minecraft:cherry_grove": "2024-09-19 14:08:14 +0200",
       "minecraft:sunflower_plains": "2024-09-19 18:12:04 +0200",
-      "minecraft:swamp": "2024-09-26 16:47:59 +0200",
       "minecraft:birch_forest": "2024-09-19 18:25:01 +0200",
       "minecraft:windswept_hills": "2024-10-08 21:36:03 +0200",
-      "minecraft:savanna": "2024-09-19 14:05:15 +0200",
+      "minecraft:bamboo_jungle": "2024-10-09 15:00:11 +0200",
       "minecraft:windswept_savanna": "2024-09-26 16:51:37 +0200",
+      "minecraft:flower_forest": "2024-09-19 18:11:33 +0200",
+      "minecraft:savanna_plateau": "2024-09-23 19:13:22 +0200",
+      "minecraft:beach": "2024-09-26 16:51:10 +0200",
+      "minecraft:dark_forest": "2024-09-26 16:53:22 +0200",
+      "minecraft:sparse_jungle": "2024-09-19 13:37:55 +0200",
+      "minecraft:river": "2024-09-19 18:09:29 +0200",
+      "minecraft:lukewarm_ocean": "2024-10-08 21:45:22 +0200",
+      "minecraft:stony_shore": "2024-10-09 00:03:46 +0200",
+      "minecraft:dripstone_caves": "2024-09-19 18:19:04 +0200",
+      "minecraft:old_growth_birch_forest": "2024-09-19 18:26:33 +0200",
+      "minecraft:deep_dark": "2024-10-02 18:57:02 +0200",
+      "minecraft:swamp": "2024-09-26 16:47:59 +0200",
+      "minecraft:savanna": "2024-09-19 14:05:15 +0200",
       "minecraft:plains": "2024-09-19 13:32:43 +0200"
     },
     "done": false
@@ -3716,13 +3717,49 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-10-09 13:16:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-10-09 13:17:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-10-09 13:17:21 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-09 13:17:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-10-09 13:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-10-09 13:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-10-09 13:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2024-10-09 13:17:24 +0200"
     },
@@ -3740,21 +3777,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-10-09 13:17:24 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-10-09 13:17:26 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2024-10-09 13:17:24 +0200"
     },
     "done": true
   },
@@ -3764,33 +3789,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-10-09 13:17:19 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-10-09 13:16:07 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2024-10-09 13:17:26 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_oxeye_daisy": "2024-10-09 13:17:21 +0200"
+      "has_glowstone_dust": "2024-10-09 14:51:18 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_needed_dye": "2024-10-09 13:17:24 +0200"
+      "has_glowstone_dust": "2024-10-09 14:51:18 +0200"
     },
     "done": true
   },
