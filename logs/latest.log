@@ -1,130 +1,55 @@
-[17:50:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:50:18] [ServerMain/INFO]: Loaded 1290 recipes
-[17:50:18] [ServerMain/INFO]: Loaded 1399 advancements
-[17:50:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:50:19] [Server thread/INFO]: Loading properties
-[17:50:19] [Server thread/INFO]: Default game type: SURVIVAL
-[17:50:19] [Server thread/INFO]: Generating keypair
-[17:50:19] [Server thread/INFO]: Starting Minecraft server on :::25565
-[17:50:19] [Server thread/INFO]: Using default channel type
-[17:50:19] [Server thread/INFO]: Preparing level "world"
-[17:50:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:50:20] [Server thread/INFO]: Time elapsed: 299 ms
-[17:50:20] [Server thread/INFO]: Done (0.955s)! For help, type "help"
-[17:51:52] [User Authenticator #1/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[17:51:52] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:3c85:7d80:3e7a:c8ad]:61022] logged in with entity id 14 at (320.4091866741063, 67.0, 196.28555767306594)
-[17:51:53] [Server thread/INFO]: NoService21 joined the game
-[18:13:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=99, z=436} jd{x=232, y=99, z=435}
-[18:13:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=99, z=436} jd{x=232, y=99, z=435}
-[18:13:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=99, z=437} jd{x=232, y=97, z=437}
-[18:13:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=99, z=437} jd{x=232, y=97, z=437}
-[18:13:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=99, z=437} jd{x=232, y=97, z=437}
-[18:13:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=99, z=437} jd{x=232, y=97, z=437}
-[18:13:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=98, z=438} jd{x=232, y=97, z=437}
-[18:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=96, z=440} jd{x=232, y=94, z=441}
-[18:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=96, z=440} jd{x=232, y=94, z=441}
-[18:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=83, z=449} jd{x=232, y=82, z=449}
-[18:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=83, z=449} jd{x=232, y=82, z=449}
-[18:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=232, y=83, z=449} jd{x=232, y=82, z=449}
-[18:18:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=265, y=36, z=485} jd{x=272, y=35, z=483}
-[18:18:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=265, y=36, z=485} jd{x=272, y=35, z=483}
-[18:19:27] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[18:19:27] [Server thread/INFO]: NoService21 left the game
-[18:20:08] [User Authenticator #2/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[18:20:08] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:3c85:7d80:3e7a:c8ad]:63206] logged in with entity id 14831 at (273.69371036923496, 47.0, 481.77956352549614)
-[18:20:08] [Server thread/INFO]: NoService21 joined the game
-[18:41:49] [Server thread/INFO]: NoService21 has reached the goal [The Next Generation]
-[18:42:44] [Server thread/INFO]: NoService21 has reached the goal [The End... Again...]
-[18:49:12] [Server thread/INFO]: NoService21 has made the advancement [A Throwaway Joke]
-[18:49:12] [Server thread/INFO]: Villager cmk['Villager'/23512, l='ServerLevel[Survival:2024]', x=575.01, y=71.36, z=399.61] was struck by lightning btm['Lightning Bolt'/24568, l='ServerLevel[Survival:2024]', x=574.62, y=71.00, z=399.54].
-[18:49:12] [Server thread/INFO]: NoService21 has made the advancement [Very Very Frightening]
-[18:59:27] [Server thread/INFO]: NoService21 has made the advancement [Bee Our Guest]
-[19:03:40] [Server thread/INFO]: NoService21 has completed the challenge [Sniper Duel]
-[19:13:36] [Server thread/INFO]: NoService21 has reached the goal [You Need a Mint]
-[19:31:53] [Server thread/INFO]: NoService21 has completed the challenge [Great View From Up Here]
-[19:32:36] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[19:32:36] [Server thread/INFO]: NoService21 left the game
-[21:10:18] [User Authenticator #3/INFO]: UUID of player NoService21 is a262a6e2-be79-40ad-9666-77d481e3250c
-[21:10:19] [Server thread/INFO]: NoService21[/[2a02:ab88:138e:0:3c85:7d80:3e7a:c8ad]:58957] logged in with entity id 45766 at (-4052.300000011921, 110.20000004768372, -1505.1517232431436)
-[21:10:19] [Server thread/INFO]: NoService21 joined the game
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3781, y=77, z=1363} jd{x=-3781, y=77, z=1364}
-[21:29:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3782, y=75, z=1362} jd{x=-3783, y=75, z=1363}
-[21:55:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4670, y=63, z=2144} jd{x=-4669, y=63, z=2144}
-[21:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4670, y=63, z=2144} jd{x=-4669, y=63, z=2144}
-[21:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4670, y=63, z=2144} jd{x=-4669, y=63, z=2144}
-[21:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4670, y=63, z=2144} jd{x=-4669, y=63, z=2144}
-[21:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4670, y=63, z=2144} jd{x=-4669, y=63, z=2144}
-[21:56:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4665, y=64, z=2137} jd{x=-4666, y=63, z=2139}
-[21:56:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4665, y=64, z=2137} jd{x=-4666, y=63, z=2139}
-[21:56:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4665, y=64, z=2137} jd{x=-4666, y=63, z=2139}
-[21:56:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4665, y=64, z=2137} jd{x=-4666, y=63, z=2139}
-[21:56:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4665, y=64, z=2137} jd{x=-4666, y=63, z=2139}
-[21:56:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=61, z=2142} jd{x=-4663, y=63, z=2136}
-[21:56:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=61, z=2142} jd{x=-4663, y=63, z=2136}
-[21:56:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=61, z=2142} jd{x=-4663, y=63, z=2136}
-[21:56:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=61, z=2142} jd{x=-4663, y=63, z=2136}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4663, y=64, z=2136} jd{x=-4663, y=64, z=2137}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4660, y=61, z=2140} jd{x=-4661, y=61, z=2140}
-[21:56:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4660, y=61, z=2140} jd{x=-4661, y=61, z=2140}
-[21:56:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4660, y=61, z=2140} jd{x=-4661, y=61, z=2140}
-[21:56:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4660, y=61, z=2140} jd{x=-4661, y=61, z=2140}
-[21:56:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4661, y=63, z=2137} jd{x=-4660, y=62, z=2135}
-[21:56:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4661, y=63, z=2137} jd{x=-4660, y=62, z=2135}
-[22:02:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-5397, y=67, z=2272} jd{x=-5397, y=66, z=2270}
-[22:06:22] [Server thread/INFO]: Villager cmk['Farmer'/86624, l='ServerLevel[Survival:2024]', x=-5336.44, y=63.00, z=1424.90] died, message: 'Farmer was slain by Vindicator'
-[22:06:33] [Server thread/INFO]: NoService21 has made the advancement [Who's the Pillager Now?]
-[22:06:37] [Server thread/INFO]: Villager cmk['Villager'/86589, l='ServerLevel[Survival:2024]', x=-5365.52, y=63.00, z=1425.70] died, message: 'Villager was shot by Pillager'
-[22:09:20] [Server thread/INFO]: Villager cmk['Villager'/86591, l='ServerLevel[Survival:2024]', x=-5349.70, y=63.00, z=1405.43] died, message: 'Villager was slain by Vindicator'
-[22:09:21] [Server thread/INFO]: Villager cmk['Farmer'/86592, l='ServerLevel[Survival:2024]', x=-5317.44, y=63.00, z=1432.30] died, message: 'Farmer was slain by Vindicator'
-[22:09:27] [Server thread/INFO]: Villager cmk['Villager'/86586, l='ServerLevel[Survival:2024]', x=-5341.89, y=63.00, z=1417.57] died, message: 'Villager was slain by Vindicator'
-[22:09:30] [Server thread/INFO]: Villager cmk['Nitwit'/86632, l='ServerLevel[Survival:2024]', x=-5344.51, y=63.00, z=1429.75] died, message: 'Nitwit was slain by Vindicator'
-[22:09:32] [Server thread/INFO]: Villager cmk['Cartographer'/86582, l='ServerLevel[Survival:2024]', x=-5324.04, y=63.00, z=1425.57] died, message: 'Cartographer was slain by Vindicator'
-[22:09:32] [Server thread/INFO]: Villager cmk['Nitwit'/86587, l='ServerLevel[Survival:2024]', x=-5322.78, y=63.00, z=1425.55] died, message: 'Nitwit was slain by Vindicator'
-[22:09:36] [Server thread/INFO]: Villager cmk['Cartographer'/86633, l='ServerLevel[Survival:2024]', x=-5367.36, y=63.00, z=1420.64] died, message: 'Cartographer was slain by Vindicator'
-[22:09:38] [Server thread/INFO]: Villager cmk['Villager'/86579, l='ServerLevel[Survival:2024]', x=-5344.65, y=63.00, z=1424.40] died, message: 'Villager was slain by Vindicator'
-[22:09:43] [Server thread/INFO]: Villager cmk['Villager'/86581, l='ServerLevel[Survival:2024]', x=-5336.55, y=63.00, z=1419.95] died, message: 'Villager was shot by Pillager'
-[22:10:14] [Server thread/INFO]: Villager cmk['Farmer'/86583, l='ServerLevel[Survival:2024]', x=-5332.70, y=63.33, z=1435.04] died, message: 'Farmer was slain by Vindicator'
-[22:10:17] [Server thread/INFO]: Villager cmk['Farmer'/86590, l='ServerLevel[Survival:2024]', x=-5337.70, y=63.00, z=1430.70] died, message: 'Farmer was slain by Vindicator'
-[22:11:22] [Server thread/INFO]: NoService21 has reached the goal [Postmortal]
-[22:14:54] [Server thread/INFO]: NoService21 has made the advancement [Isn't It Scute?]
-[22:32:24] [Server thread/INFO]: NoService21 lost connection: Disconnected
-[22:32:24] [Server thread/INFO]: NoService21 left the game
-[22:32:33] [Server thread/INFO]: Stopping the server
-[22:32:33] [Server thread/INFO]: Stopping server
-[22:32:33] [Server thread/INFO]: Saving players
-[22:32:33] [Server thread/INFO]: Saving worlds
-[22:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
-[22:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
-[22:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
-[22:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:46:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:46:09] [ServerMain/INFO]: Loaded 1290 recipes
+[10:46:09] [ServerMain/INFO]: Loaded 1399 advancements
+[10:46:10] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[10:46:10] [Server thread/INFO]: Loading properties
+[10:46:10] [Server thread/INFO]: Default game type: SURVIVAL
+[10:46:10] [Server thread/INFO]: Generating keypair
+[10:46:10] [Server thread/INFO]: Starting Minecraft server on :::25565
+[10:46:10] [Server thread/INFO]: Using default channel type
+[10:46:10] [Server thread/INFO]: Preparing level "world"
+[10:46:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:46:11] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[10:46:11] [Server thread/INFO]: Time elapsed: 271 ms
+[10:46:11] [Server thread/INFO]: Done (0.982s)! For help, type "help"
+[10:47:09] [User Authenticator #1/INFO]: UUID of player ezzie420 is 866867ff-59a1-4ced-aa79-3eebe1aeff4a
+[10:47:10] [Server thread/INFO]: ezzie420[/[2a02:ab88:138e:0:18ec:c0b7:8434:856]:57742] logged in with entity id 14 at (395.6692018998056, 69.0, 257.9355548352745)
+[10:47:10] [Server thread/INFO]: ezzie420 joined the game
+[11:22:36] [Server thread/INFO]: Villager cmk['Villager'/3609, l='ServerLevel[Survival:2024]', x=375.30, y=69.00, z=191.99] died, message: 'Villager suffocated in a wall'
+[11:29:40] [Server thread/INFO]: ezzie420 lost connection: Disconnected
+[11:29:40] [Server thread/INFO]: ezzie420 left the game
+[11:30:17] [User Authenticator #2/INFO]: UUID of player ezzie420 is 866867ff-59a1-4ced-aa79-3eebe1aeff4a
+[11:30:18] [Server thread/INFO]: ezzie420[/[2a02:ab88:138e:0:18ec:c0b7:8434:856]:58263] logged in with entity id 11023 at (401.69737978961405, 69.0, 256.6335590822826)
+[11:30:18] [Server thread/INFO]: ezzie420 joined the game
+[12:06:58] [Server thread/INFO]: Villager cmk['Villager'/15532, l='ServerLevel[Survival:2024]', x=375.30, y=68.00, z=190.70] died, message: 'Villager suffocated in a wall'
+[13:18:14] [Server thread/INFO]: Villager cmk['Villager'/29355, l='ServerLevel[Survival:2024]', x=375.50, y=69.00, z=190.70] died, message: 'Villager suffocated in a wall'
+[14:51:57] [Server thread/INFO]: Villager cmk['Villager'/51433, l='ServerLevel[Survival:2024]', x=375.50, y=69.05, z=190.70] died, message: 'Villager suffocated in a wall'
+[15:03:18] [Server thread/INFO]: ezzie420 lost connection: Disconnected
+[15:03:18] [Server thread/INFO]: ezzie420 left the game
+[15:24:37] [User Authenticator #3/INFO]: UUID of player ezzie420 is 866867ff-59a1-4ced-aa79-3eebe1aeff4a
+[15:24:38] [Server thread/INFO]: ezzie420[/[2a02:ab88:138e:0:caef:ca90:d31c:a345]:60986] logged in with entity id 58761 at (388.22591771754804, 69.0, 254.9287284861183)
+[15:24:38] [Server thread/INFO]: ezzie420 joined the game
+[15:25:23] [Server thread/INFO]: ezzie420 lost connection: Disconnected
+[15:25:23] [Server thread/INFO]: ezzie420 left the game
+[15:25:33] [User Authenticator #4/INFO]: UUID of player ezzie420 is 866867ff-59a1-4ced-aa79-3eebe1aeff4a
+[15:25:33] [Server thread/INFO]: ezzie420[/[2a02:ab88:138e:0:caef:ca90:d31c:a345]:60993] logged in with entity id 59667 at (388.22591771754804, 69.0, 254.9287284861183)
+[15:25:33] [Server thread/INFO]: ezzie420 joined the game
+[15:32:23] [Server thread/INFO]: Villager cmk['Villager'/59783, l='ServerLevel[Survival:2024]', x=375.30, y=68.85, z=191.99] died, message: 'Villager suffocated in a wall'
+[15:33:07] [Server thread/INFO]: ezzie420 lost connection: Disconnected
+[15:33:07] [Server thread/INFO]: ezzie420 left the game
+[21:18:30] [User Authenticator #5/INFO]: UUID of player Skrude is 131249ef-831b-4405-8e45-1802d899d491
+[21:18:31] [Server thread/INFO]: Skrude[/[2a02:ab88:3783:2580:2490:f1d:d856:ee9f]:59524] logged in with entity id 61379 at (332.5, 69.0, 311.5)
+[21:18:31] [Server thread/INFO]: Skrude joined the game
+[21:28:29] [Server thread/INFO]: Skrude lost connection: Disconnected
+[21:28:29] [Server thread/INFO]: Skrude left the game
+[23:42:14] [Server thread/INFO]: Stopping the server
+[23:42:14] [Server thread/INFO]: Stopping server
+[23:42:14] [Server thread/INFO]: Saving players
+[23:42:14] [Server thread/INFO]: Saving worlds
+[23:42:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:overworld
+[23:42:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_end
+[23:42:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival:2024]'/minecraft:the_nether
+[23:42:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:42:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:42:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:42:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

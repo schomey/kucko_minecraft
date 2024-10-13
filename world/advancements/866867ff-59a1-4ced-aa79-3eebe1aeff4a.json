@@ -479,16 +479,17 @@
     "criteria": {
       "cooked_porkchop": "2024-09-22 13:52:45 +0200",
       "bread": "2024-09-22 18:03:03 +0200",
-      "cooked_chicken": "2024-09-22 18:47:14 +0200",
+      "cookie": "2024-10-13 13:46:13 +0200",
       "cooked_mutton": "2024-09-22 19:49:56 +0200",
-      "potato": "2024-09-29 17:18:49 +0200",
-      "cooked_cod": "2024-09-22 20:49:54 +0200",
       "cooked_beef": "2024-09-22 18:11:04 +0200",
       "baked_potato": "2024-09-22 22:27:05 +0200",
       "melon_slice": "2024-09-22 20:19:54 +0200",
+      "golden_carrot": "2024-09-28 20:36:18 +0200",
+      "cooked_chicken": "2024-09-22 18:47:14 +0200",
+      "potato": "2024-09-29 17:18:49 +0200",
+      "cooked_cod": "2024-09-22 20:49:54 +0200",
       "cooked_salmon": "2024-09-22 15:28:27 +0200",
-      "pumpkin_pie": "2024-09-28 12:32:52 +0200",
-      "golden_carrot": "2024-09-28 20:36:18 +0200"
+      "pumpkin_pie": "2024-09-28 12:32:52 +0200"
     },
     "done": false
   },
@@ -3751,7 +3752,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-12 15:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-12 15:35:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-10-12 15:43:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-10-12 15:43:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-10-12 15:43:36 +0200"
     },
@@ -3823,21 +3848,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-10-12 15:43:36 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-12 15:45:21 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-10-12 15:43:36 +0200"
     },
     "done": true
   },
@@ -3853,18 +3866,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2024-10-12 15:35:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2024-10-12 15:35:36 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-12 15:45:21 +0200"
@@ -3874,6 +3875,60 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-10-12 15:45:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-10-13 11:59:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-10-13 11:59:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-10-13 11:59:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-10-13 11:59:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-13 13:19:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-13 13:19:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-13 13:19:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-13 13:19:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-13 13:25:11 +0200"
     },
     "done": true
   },
