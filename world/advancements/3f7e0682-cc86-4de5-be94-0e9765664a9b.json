@@ -3694,5 +3694,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2024-10-14 21:35:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-10-14 21:55:42 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
